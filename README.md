@@ -33,7 +33,9 @@ Tener en cuenta que este juego necesita de recursos de Sonidos y Fuentes que ten
 
 El código Fuente se encuentra en este repositorio, archivo con extención cpp. Esta realizado bajo la plataforma linux. 
 
-Hay ciertas consideraciones en diferentes Sistemas Operativos. -La función de limpiado de pantalla es "clear" en Linux y "cls" en windows 
+Hay ciertas consideraciones en diferentes Sistemas Operativos. 
+
+-La función de limpiado de pantalla es "clear" en Linux y "cls" en windows 
 
 ### Realizado por:
               Juan José Läderach con fines educativos el 29 de Octubre del 2022. 
