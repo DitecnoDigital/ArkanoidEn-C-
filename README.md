@@ -1,3 +1,5 @@
+
+![This is me](https://github.com/DitecnoDigital/ArkanoidEn-C-/blob/main/PortadaArkanoid.jpg)
 #  Juego "Arkanoid"
 
 Tutorial de como realizar "Arkanoid" en C++ donde puedes ver el paso a paso en:
