@@ -1,4 +1,4 @@
-# Arkanoid En C++
+#  Juego "Arkanoid"
 
 Tutorial de como realizar "Arkanoid" en C++ donde puedes ver el paso a paso en:
 
@@ -30,10 +30,20 @@ Tutorial de como realizar "Arkanoid" en C++ donde puedes ver el paso a paso en:
 
 Tener en cuenta que este juego necesita de recursos de Sonidos y Fuentes que tendrán que bajarse y guardarse en las carpetas /Sounds y /Fonts  creadas dentro de la carpeta del Proyecto. 
 
-### Realizado por:
-              Juan José Läderach con fines educativos el 29 de Octubre del 2022. 
 
 El código Fuente se encuentra en este repositorio, archivo con extención cpp. Esta realizado bajo la plataforma linux. 
 
 Hay ciertas consideraciones en diferentes Sistemas Operativos. -La función de limpiado de pantalla es "clear" en Linux y "cls" en windows 
 
+### Realizado por:
+              Juan José Läderach con fines educativos el 29 de Octubre del 2022. 
+
+
+## Puedes seguirme en:
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/ditecnodigital?style=social)](https://twitter.com/DitecnoDigital)
+ [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCdly91ChaaL8brV5sRfGnQ?style=social)](https://www.youtube.com/@ditecnodigital6965?sub_confirmation=1)
+
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
